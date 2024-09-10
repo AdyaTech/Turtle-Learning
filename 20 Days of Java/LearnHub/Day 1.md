@@ -22,7 +22,7 @@ One popular IDE is **IntelliJ IDEA**, but you can also use **Eclipse** or **VS C
 
 Now, let’s make Java say “Hello, World!” It’s the classic first program everyone starts with. Follow along:
 
-![java banner](https://github.com/AdyaAgr/20-Days-of-Java/blob/main/images/Day%201.png)
+![java banner](https://github.com/AdyaTech/Turtle-Learning-with-AdyaTech/blob/main/20%20Days%20of%20Java/Images/Day%201.png)
 
 What just happened? Let’s break it down:
 
