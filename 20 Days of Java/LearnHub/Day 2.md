@@ -74,7 +74,7 @@ NOTE : UTF-8 is the most popular unicode character encoding with 90% websites us
 
 Let’s create a few variables and see how this works:
 
-![java banner](https://github.com/AdyaAgr/20-Days-of-Java/blob/main/images/Day%202.png)
+![java banner](https://github.com/AdyaTech/Turtle-Learning-with-AdyaTech/blob/main/20%20Days%20of%20Java/Images/Day%202.png)
 
 What just happened? Let’s break it down:
 
@@ -83,7 +83,7 @@ What just happened? Let’s break it down:
 
 When you run this code, Java will show all the information stored in those variables. You’ll see messages like:
 
-![java banner](https://github.com/AdyaAgr/20-Days-of-Java/blob/main/images/d2a.png)
+![java banner](https://github.com/AdyaTech/Turtle-Learning-with-AdyaTech/blob/main/20%20Days%20of%20Java/Images/d2a.png)
 
 ## <img src = "https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Java.png" align = "left" width = "30"> Why Do We Need Variables?
 
