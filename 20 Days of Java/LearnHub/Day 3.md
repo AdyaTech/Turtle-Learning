@@ -18,7 +18,7 @@ These operators let you do basic math:
 
 **Example:**
 
-![java banner](https://github.com/AdyaAgr/20-Days-of-Java/blob/main/images/d3.png)
+![java banner](https://github.com/AdyaTech/Turtle-Learning-with-AdyaTech/blob/main/20%20Days%20of%20Java/Images/d3.png)
 
 ## <img src = "https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Java.png" align = "left" width = "30"> Comparison Operators: Who’s Bigger, Who’s Smaller?
 
@@ -33,7 +33,7 @@ These operators let you compare numbers or values:
 
 **Example:**
 
-![java banner](https://github.com/AdyaAgr/20-Days-of-Java/blob/main/images/d3a.png)
+![java banner](https://github.com/AdyaTech/Turtle-Learning-with-AdyaTech/blob/main/20%20Days%20of%20Java/Images/d3a.png)
 
 ## <img src = "https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Java.png" align = "left" width = "30"> Logical Operators: Combining Conditions!
 
@@ -45,7 +45,7 @@ Sometimes you want to check more than one thing at a time. Logical operators hel
 
 **Example:**
 
-![java banner](https://github.com/AdyaAgr/20-Days-of-Java/blob/main/images/d3b.png)
+![java banner](https://github.com/AdyaTech/Turtle-Learning-with-AdyaTech/blob/main/20%20Days%20of%20Java/Images/d3b.png)
 
 ## <img src = "https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Java.png" align = "left" width = "30"> Why Operators Are Awesome?
 
