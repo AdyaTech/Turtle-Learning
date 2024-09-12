@@ -18,7 +18,7 @@ In Java, methods help us organize our code into neat, reusable blocks.
 
 Let’s start simple by making a method that says “Hello!”
 
-![java banner](https://github.com/AdyaAgr/20-Days-of-Java/blob/main/images/d4.png)
+![java banner](https://github.com/AdyaTech/Turtle-Learning-with-AdyaTech/blob/main/20%20Days%20of%20Java/Images/d4.png)
 
 ## <img src = "https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Java.png" align = "left" width = "30"> What’s Happening?
 
@@ -30,7 +30,7 @@ Let’s start simple by making a method that says “Hello!”
 
 What if you want to greet different people? Instead of making a new method for each name, you can give your method inputs, called **parameters**.
 
-![java banner](https://github.com/AdyaAgr/20-Days-of-Java/blob/main/images/d4a.png)
+![java banner](https://github.com/AdyaTech/Turtle-Learning-with-AdyaTech/blob/main/20%20Days%20of%20Java/Images/d4a.png)
 
 ## <img src = "https://cdn0.iconfinder.com/data/icons/huge-basic-icons-part-3/512/Java.png" align = "left" width = "30"> What’s New?
 
@@ -41,7 +41,7 @@ What if you want to greet different people? Instead of making a new method for e
 
 Sometimes, you want your method to not just do something, but also give you back a value. Let’s say you want to add two numbers and get the result:
 
-![java banner](https://github.com/AdyaAgr/20-Days-of-Java/blob/main/images/d4a.png)
+![java banner](https://github.com/AdyaTech/Turtle-Learning-with-AdyaTech/blob/main/20%20Days%20of%20Java/Images/d4a.png)
 
 Here’s how it works:
 
